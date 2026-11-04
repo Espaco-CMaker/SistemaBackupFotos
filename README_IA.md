@@ -79,6 +79,7 @@ Aplicação desktop dual-pane para Windows que suporta **Origem Dupla de Mídias
 | [config.example.json](file:///e:/IAGenMaster/2026/CMaker/Projetos/10-BaixarFotosIPhone/config.example.json) | L1–L25 | ~0.6 KB | Modelo padrão universal de configurações sem caminhos privados. |
 | [scripts/build_installer.py](file:///e:/IAGenMaster/2026/CMaker/Projetos/10-BaixarFotosIPhone/scripts/build_installer.py) | L1–L94 | ~3.6 KB | Automação de compilação do Instalador Windows oficial com Inno Setup 6. |
 | [scripts/build_installer.bat](file:///e:/IAGenMaster/2026/CMaker/Projetos/10-BaixarFotosIPhone/scripts/build_installer.bat) | L1–L10 | ~0.3 KB | Launcher de duplo clique para geração rápida do Instalador Setup. |
+| [scripts/push_github.bat](file:///e:/IAGenMaster/2026/CMaker/Projetos/10-BaixarFotosIPhone/scripts/push_github.bat) | L1–L25 | ~0.9 KB | Script interativo para envio ao repositório GitHub com autenticação visual. |
 | [scripts/installer.iss](file:///e:/IAGenMaster/2026/CMaker/Projetos/10-BaixarFotosIPhone/scripts/installer.iss) | L1–L64 | ~2.5 KB | Definição formal do script Inno Setup com parâmetros de idioma, atalhos e desinstalação. |
 | [scripts/build_exe.py](file:///e:/IAGenMaster/2026/CMaker/Projetos/10-BaixarFotosIPhone/scripts/build_exe.py) | L1–L128 | ~4.8 KB | Ler ou executar ao recompilar o executável standalone (.exe) via PyInstaller. |
 | [scripts/build_exe.bat](file:///e:/IAGenMaster/2026/CMaker/Projetos/10-BaixarFotosIPhone/scripts/build_exe.bat) | L1–L10 | ~0.3 KB | Launcher em lote para recompilação do executável com um duplo clique. |
