@@ -71,6 +71,8 @@ A comunicação com o iPhone utiliza a tecnologia nativa do Windows (MTP/WPD). P
 
 ## 4. Visão Geral da Interface
 
+![Visão Geral da Interface](assets/interface.png)
+
 A tela do aplicativo é dividida em três colunas inteligentes e redimensionáveis:
 
 | Painel | Descrição |

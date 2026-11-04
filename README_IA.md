@@ -91,5 +91,6 @@ Aplicação desktop dual-pane para Windows que suporta **Origem Dupla de Mídias
 | [scripts/app_cli.py](file:///e:/IAGenMaster/2026/CMaker/Projetos/10-BaixarFotosIPhone/scripts/app_cli.py) | L1–L201 | ~8.2 KB | Ler ao adicionar argumentos CLI ou automações headless (suporte a flag `--source`). |
 | [anim/](file:///e:/IAGenMaster/2026/CMaker/Projetos/10-BaixarFotosIPhone/anim) | Diretório | ~14.9 MB | Pasta de vídeos da animação de transferência (múltiplos vídeos MP4 alternados aleatoriamente em loop contínuo). |
 | [assets/app_icon.ico](file:///e:/IAGenMaster/2026/CMaker/Projetos/10-BaixarFotosIPhone/assets/app_icon.ico) | Binário | ~12.7 KB | Ícone oficial multi-resolução (256, 128, 64, 48, 32, 16 px) da aplicação. |
+| [assets/interface.png](file:///e:/IAGenMaster/2026/CMaker/Projetos/10-BaixarFotosIPhone/assets/interface.png) | Imagem PNG | ~307 KB | Screenshot oficial da interface para exibição no README e manual de instruções. |
 | [iniciar_app.bat](file:///e:/IAGenMaster/2026/CMaker/Projetos/10-BaixarFotosIPhone/iniciar_app.bat) | L1–L18 | ~0.5 KB | Launcher de duplo clique para Windows (executa o .exe se presente ou o script .py). |
 | [requirements.txt](file:///e:/IAGenMaster/2026/CMaker/Projetos/10-BaixarFotosIPhone/requirements.txt) | L1–L5 | ~0.1 KB | Dependências (`pywin32`, `Pillow`, `pillow-heif`, `opencv-python`). |

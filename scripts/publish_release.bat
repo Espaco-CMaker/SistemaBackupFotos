@@ -8,3 +8,4 @@ echo.
 python "%~dp0publish_release.py"
 echo.
 pause
+

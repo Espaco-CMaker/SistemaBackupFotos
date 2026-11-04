@@ -1,5 +1,7 @@
 # 📱📁 CMaker Photo Commander
 
+![Interface do CMaker Photo Commander](assets/interface.png)
+
 Aplicação desktop completa e utilitário de linha de comando em Python (versão atual **`v2.8.0`**, exibida de forma permanente no título da janela e no canto direito da barra de status inferior) com **interface multi-pane redimensionável e divisórias persistentes**, projetada para navegar, visualizar miniaturas, baixar, organizar e **excluir fotos e vídeos diretamente de um iPhone conectado via USB ou de qualquer diretório local (pastas no PC, cartões SD de câmeras, pen drives ou discos externos)**.
 
 Todas as transferências organizam os arquivos automaticamente em pastas no padrão:
