@@ -1,0 +1,68 @@
+# =============================================================================
+# .gitignore - CMaker Photo Commander
+# Proteção contra vazamento de credenciais, dados pessoais, caches e binários grandes
+# =============================================================================
+
+# Configurações locais com caminhos pessoais de pastas
+config.json
+dist/config.json
+
+# Cache de geolocalização com coordenadas GPS de testes
+geo_cache.json
+scripts/geo_cache.json
+
+# Pastas de saída de fotos baixadas / backups de teste (padrão AAAA-MM-DD[-Local])
+202[0-9]-*
+Backup_IPhone*
+temp/
+
+# Binários grandes compilados (>100MB não permitidos pelo GitHub)
+# O executável e o instalador devem ser distribuídos via GitHub Releases
+*.exe
+*.msi
+dist/
+build/
+*.spec
+
+# Bytecode e caches do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+.env/
+
+# Arquivos de variáveis de ambiente / segredos (caso existam)
+.env
+.env.*
+*.secret
+*.pem
+*.key
+
+# Lixeira segura do projeto (Skill lixeira)
+lixeira/
+
+# Configurações de IDEs e editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Arquivos temporários de sistema operacional
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
+*.tmp
+*.log
+

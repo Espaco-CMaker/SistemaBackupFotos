@@ -1,0 +1,26 @@
+{
+  "source_type": "📱 Apple iPhone (USB)",
+  "source_dir": "",
+  "recent_source_paths": [],
+  "orig_view_mode": "📑 Detalhes",
+  "dest_view_mode": "📑 Detalhes",
+  "recent_paths": [],
+  "dest_dir": "",
+  "custom_local": "",
+  "use_gps": true,
+  "skip_existing": true,
+  "inc_photos": true,
+  "inc_videos": true,
+  "play_sound": true,
+  "filter_by_date": false,
+  "date_from": "",
+  "date_to": "",
+  "window_geometry": "1280x800+100+100",
+  "window_state": "normal",
+  "paned_h_sashes": [
+    540,
+    800
+  ],
+  "paned_v_sash": 560
+}
+
